@@ -65,4 +65,4 @@ Model myślowy to uproszczone wyjaśnienie tego, jak coś działa. Każdą ideę
 
 ### Zastosowanie w pracy z LLM
 
-Szczegółowe zestawienie z tagami i przykładami → [03-modele-dla-llm.md](03-modele-dla-llm.md)
+Szczegółowe zestawienie z tagami i przykładami → [04-modele-dla-llm.md](04-modele-dla-llm.md)
