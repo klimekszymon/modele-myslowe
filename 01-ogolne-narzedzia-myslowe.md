@@ -97,4 +97,6 @@ Zabezpieczenie przed pokusą przypisywania złych intencji sytuacjom, które mo�
 
 ---
 
-*Powrót do [indeksu](index.md)*
+*Powrót do [indeksu](readme.md)*
+
+*Następna notatka [02-fizyka-chemia-biologia](02-fizyka-chemia-biologia)*

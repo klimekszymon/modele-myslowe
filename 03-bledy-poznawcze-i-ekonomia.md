@@ -110,4 +110,6 @@ Skrajne wyniki — zarówno bardzo dobre, jak i bardzo złe — mają naturalną
 
 ---
 
-*Powrót do [indeksu](index.md)*
+*Powrót do [indeksu](readme.md)*
+
+*Następna notatka [04-modele-dla-llm](04-modele-dla-llm)*

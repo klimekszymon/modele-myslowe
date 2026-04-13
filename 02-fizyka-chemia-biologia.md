@@ -128,4 +128,6 @@ Systemy biologiczne dostosowują się do środowiska przez selekcję — to, co 
 
 ---
 
-*Powrót do [indeksu](index.md)*
+*Powrót do [indeksu](readme.md)*
+
+*Następna notatka [03-bledy-poznawcze-i-ekonomia](03-bledy-poznawcze-i-ekonomia)*

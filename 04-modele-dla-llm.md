@@ -129,4 +129,4 @@ Stosowanie modeli myślowych w pracy z LLM pozwala przejść od chaotycznego „
 
 ---
 
-*Powrót do [indeksu](index.md)*
+*Powrót do [indeksu](readme.md)*
